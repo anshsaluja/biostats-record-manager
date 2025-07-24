@@ -87,3 +87,9 @@ Elly   30   F        5'6"       124 lbs
 - CSV must be clean and sorted by name.
 - Uses only core Java (`java.io`, no external libs).
 - Designed to be robust, user-friendly, and modular.
+
+---
+
+## License
+This project is not open source. All rights reserved © 2025 Ansh Saluja.
+
